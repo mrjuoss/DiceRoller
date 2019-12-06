@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="_1">1</string>
+    <string name="dice">Dice</string>
+    <string name="my_name">M. Arif Mujaki</string>
+    <string name="about_me">About Me</string>
+    <string name="lets_roll">Let\'s Roll</string>
+    <string name="star_image">Star Image</string>
+    <string name="bio_text">Lorem ipsum, or lipsum as it is sometimes known,
+        \nis dummy text used in laying out print, graphic or web designs.
+        \nThe passage is attributed to an unknown typesetter in the 15th century
+        \nwho is thought to have scrambled parts of Cicero\'s De Finibus Bonorum et Malorum for use in a type specimen book.
+        \nIt usually begins. So how did the classical Latin become so incoherent? According to McClintock,
+        \na 15th century typesetter likely scrambled part of Cicero\'s De Finibus in order
+        \nto provide placeholder text to mockup various fonts for a type specimen book.
+        It\'s difficult to find examples of lorem ipsum in use before Letraset
+        \nmade it popular as a dummy text in the 1960s, although McClintock says
+        \nhe remembers coming across the lorem ipsum passage in a book of old metal type samples.
+        \nSo far he hasn\'t relocated where he once saw the passage, but the popularity of Cicero
+        \nin the 15th century supports the theory that the filler text has been used for centuries.
+        \nDetikcom adalah sebuah portal web yang berisi berita dan artikel daring di Indonesia.
+        \nDetikcom merupakan salah satu situs berita terpopuler di Indonesia.
+        \nBerbeda dari situs-situs berita berbahasa Indonesia lainnya,
+        \nDetikcom hanya mempunyai edisi daring dan menggantungkan pendapatan dari bidang iklan.
+        \nBertepatan dengan Hari Pahlawan, Wali Kota Semarang Hendrar Prihadi bersama jajaran TNI,
+        \nPolri, pimpinan OPD, LSM, perbankan, karang taruna, Pramuka dan warga Semarang
+        \nmelakukan pengecatan ulang Kampung Pelangi yang dikenal dengan nama Gunung Brintik.</string>
+    <string name="recycler_view">Recycler View</string>
+
+    <string name="text_success">Success</string>
+    <string name="text_ok">OK</string>
+    <string name="text_error">ERROR</string>
+    <string name="text_cancel">Cancel ?</string>
+    <string name="text_yes">Yes</string>
+    <string name="are_you_sure">Are You Sure ?</string>
+    <string name="text_tap_me">Tap Me</string>
+    <string name="text_material_dialog_example">Material Dialog Example</string>
+    <string name="text_your_score">Your Score : 0</string>
+    <string name="text_time_left">Time Left : 0</string>
+    <string name="text_time_fighter">Time Fighter</string>
+    <string name="game_over_message">Times Up! Ypur Score was : %1$d</string>
+</resources>

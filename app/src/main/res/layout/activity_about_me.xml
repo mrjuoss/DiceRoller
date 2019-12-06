@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name_text"
+            style="@style/StyleTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableBottom="@android:drawable/star_big_on"
+            android:drawablePadding="@dimen/default_padding"
+            android:text="@string/my_name"
+            android:textAlignment="center" />
+
+        <ScrollView
+            android:id="@+id/bio_scroll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:id="@+id/bio_text"
+                style="Tit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/default_margin"
+                android:layout_marginEnd="@dimen/default_margin"
+                android:lineSpacingMultiplier="1.2"
+                android:text="@string/bio_text" />
+        </ScrollView>
+
+
+    </LinearLayout>
+</layout>
